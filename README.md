@@ -91,6 +91,8 @@ plt.show()
 
 ![Experiment 5](https://github.com/user-attachments/assets/550e9365-c347-4560-8a6d-16b7e99976cc)
 
+[WhatsApp Image 2025-04-22 at 10 10 01_ac77b423](https://github.com/user-attachments/assets/ae45dcd9-ab20-4d20-9c01-f2982d4a5a07)
+
 
 # Results:
 
