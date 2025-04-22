@@ -90,7 +90,7 @@ plt.show()
 # Output Waveform:
 
 ![Experiment 5](https://github.com/user-attachments/assets/550e9365-c347-4560-8a6d-16b7e99976cc)
-# Graph
+# Graph:
 
 
 ![WhatsApp Image 2025-04-22 at 10 10 01_ac77b423](https://github.com/user-attachments/assets/92214f35-9437-4217-b8b3-dac43088262b)
